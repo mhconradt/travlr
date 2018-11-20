@@ -1,0 +1,87 @@
+body {
+  font-family: 'Roboto', sans-sans-serif;
+  font-weight: 400;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+header p {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url("steven-lewis-342-unsplash.jpg");
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 80px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+.picture-header {
+  font-size: 30px;
+  margin: 20px;
+}
+
+.description {
+  font-size: 22px;
+  align-self: center;
+}
+
+.personalize-image {
+  display: flex;
+  background-image: url("umit-aslan-728189-unsplash.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #fff;
+}
+
+.plan {
+  margin: 30px;
+}
+
+.plan-image {
+  display: flex;
+  background-image: url("oxana-v-524244-unsplash.jpg");
+  background-color: blue;
+  background-size: cover;
+  height: 500px;
+  color: #fff;
+}
+
+.balance-image {
+  display: flex;
+  background-image: url("mesut-kaya-726548-unsplash.jpg");
+  background-color: blue;
+  background-size: cover;
+  height: 500px;
+  color: #fff;
+}
