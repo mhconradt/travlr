@@ -65,7 +65,7 @@ header p {
 }
 
 .plan {
-  margin: 30px;
+  margin: 30px 0 30px 0;
 }
 
 .plan-image {
@@ -75,6 +75,7 @@ header p {
   background-size: cover;
   height: 500px;
   color: #fff;
+  justify-content: flex-end;
 }
 
 .balance-image {
