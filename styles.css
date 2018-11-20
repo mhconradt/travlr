@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 header .row {
@@ -28,7 +28,7 @@ header p {
   background-image: url(travlr.png);
   display: flex;
   background-size: cover;
-  height: 90px;
+  height: 92px;
   width: 200px;
 }
 
